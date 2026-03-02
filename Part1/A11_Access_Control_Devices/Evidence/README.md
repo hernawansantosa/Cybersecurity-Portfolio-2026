@@ -2,11 +2,11 @@
 
 This folder contains supporting images for Activity A11.
 
-1. fingerprint_scanner.jpg  
+1. fingerprint_scanner.jpeg  
    Image of a biometric fingerprint access control device (Suprema).  
    This device verifies identity using biometric authentication (something you are).
 
-2. keypad_lock.jpg  
+2. keypad_lock.jpeg  
    Image of a Yale PIN-based keypad door lock.  
    This device grants access using knowledge-based authentication (something you know).
 
