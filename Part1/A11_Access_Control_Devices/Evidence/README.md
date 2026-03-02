@@ -1,22 +1,28 @@
 # Evidence for A11 — Access Control Devices
 
-This folder contains supporting evidence for Activity A11.
+This folder contains supporting images for Activity A11.
 
 1. fingerprint_scanner.jpg  
-   Photograph of a biometric fingerprint access control device observed in a secured facility.
+   Image of a biometric fingerprint access control device (Suprema).  
+   This device verifies identity using biometric authentication (something you are).
 
 2. keypad_lock.jpg  
-   Photograph of a PIN-based keypad lock installed at a restricted entry point.
+   Image of a Yale PIN-based keypad door lock.  
+   This device grants access using knowledge-based authentication (something you know).
 
 3. turnstile_gate.jpg  
-   Photograph of a turnstile access control system used to regulate entry in a public transport station.
+   Image of a tripod turnstile access control system.  
+   This device regulates physical entry and prevents tailgating.
 
-4. lpr_camera.jpg  
-   Image of a license plate recognition camera used in automated parking access control systems.
+4. lpr_system.jpg  
+   Image of a license plate recognition (LPR) system used in automated parking access control.  
+   This system verifies vehicle identity before granting entry.
 
 5. facial_recognition_gate.jpg  
-   Image of a facial recognition e-gate system used in controlled environments such as airports.
+   Image of a facial recognition access system used in controlled environments such as airports or secure buildings.  
+   This system uses contactless biometric authentication.
 
-Images were collected on [insert date] through direct observation and/or publicly available reference materials for research purposes.
+Images 1–3 were obtained from official manufacturer websites and are used for research and analysis purposes.  
+Images 4–5 will be collected through direct observation and photographed on-site.
 
-No personal or sensitive information is visible in the images.
+No personal or sensitive information is included in any of the images.
